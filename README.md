@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranav.k</h1>
 <h3 align="center">A passionate Machine-learning enthusiast</h3>
 
-- 🌱 I’m currently learning **Machine-learning,Flutter**
+<h3 align="center">- 🌱 I’m currently learning **Machine-learning,Flutter**</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
