@@ -1,44 +1,85 @@
-<h1 align="center">Hi 👋, I'm Pranav</h1>
-<h3 align="center">Backend Developer | Security Enthusiast </h3>
+<h1 align="center">Hi 👋 I'm Pranav</h1>
+<h3 align="center">🚀 Backend Developer | 🛡️ Security Enthusiast</h3>
 
 ---
 
 ## 🚀 About Me
 
-🔐 Currently building a **secure real-time chat application** with:
-- End-to-End Encryption  
-- JWT-based Authentication  
-- Scalable Backend Architecture  
+• 🔐 Currently developing a secure real-time chat application designed with scalable backend architecture and modular system structure.  
 
-🤝 Open to collaborating on:
-- Security-focused projects  
-- Real-time systems  
-- Backend development  
-- Privacy & encryption tools  
+• ⚙️ Implementing end-to-end encrypted communication workflows to ensure message confidentiality and strong data protection standards.  
 
-🛠 Looking for help with:
-- Security audits  
-- Encryption best practices  
-- WebSocket scaling  
-- Improving system reliability  
+• 🔑 Designing robust JWT-based authentication and authorization mechanisms for secure and efficient user session management.  
 
-🌱 Currently learning:
-- System Design  
-- Cryptography fundamentals  
-- WebSockets & Redis  
-- Secure backend architectures  
+• 🌐 Integrating WebSocket-driven real-time messaging infrastructure for low-latency communication between connected clients.  
 
-💬 Ask me about:
-- Django & REST APIs  
-- FastAPI  
-- JWT / OTP Authentication  
-- Real-time chat systems  
-- Backend security basics  
+• 🗄️ Structuring optimized database schemas to support concurrent users and efficient message storage strategies.  
 
-⚡ Fun fact:  
-I enjoy breaking my own apps just to make them more secure 😄  
+• 🚀 Engineering scalable backend services capable of handling increasing traffic with reliability and consistent performance.  
+
+• 🛠️ Continuously refining system architecture to improve maintainability, extensibility, and production readiness standards.  
+
+• 📈 Strengthening practical knowledge in distributed systems, real-time application patterns, and backend optimization techniques.  
 
 ---
+
+## 🧰 Tech Used In Current Project
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
+</p>
+
+---
+
+## 🤝 Open To Collaborate On
+
+• Security-focused backend systems requiring structured authentication and authorization implementations.  
+
+• Real-time applications that demand efficient message handling and scalable communication pipelines.  
+
+• Performance-oriented backend architectures emphasizing maintainability and modular engineering practices.  
+
+• Engineering projects centered around privacy, encryption principles, and backend reliability improvements.  
+
+---
+
+## 📚 Currently Learning
+
+• Advanced system design principles for building scalable and distributed production-grade applications.  
+
+• Cryptography fundamentals to strengthen understanding of encryption algorithms and secure communication models.  
+
+• WebSocket scaling techniques and caching strategies using Redis for improved system responsiveness.  
+
+• Backend architectural patterns that enhance maintainability, extensibility, and operational stability.  
+
+---
+
+## 💬 Ask Me About
+
+• Designing RESTful APIs using Django and FastAPI frameworks effectively and efficiently.  
+
+• Implementing JWT-based authentication workflows and secure user session management strategies.  
+
+• Building real-time backend systems using WebSockets and scalable messaging architectures.  
+
+• Improving backend application performance through structured engineering and optimization techniques.  
+
+---
+
+## ⚡ Fun Fact
+
+• I enjoy stress-testing my own applications to discover vulnerabilities and strengthen overall system reliability.
 
 ## 💻 Tech Stack
 
