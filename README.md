@@ -1,126 +1,71 @@
 <h1 align="center">Hi 👋 I'm Pranav</h1>
 <h3 align="center">🚀 Backend Developer | 🛡️ Security Enthusiast</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pran-avk&label=Profile%20Views&color=0e75b6&style=flat" alt="pran-avk" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pran-avk&theme=dracula&area=true&hide_border=true" width="100%" alt="activity graph" />
+</p>
+
 ---
 
 ## 🚀 About Me
 
-• 🔐 Currently developing a secure real-time chat application designed with scalable backend architecture and modular system structure.  
+* **🔐 Current Project:** Developing a secure real-time chat application with scalable backend architecture.
+* **⚙️ Encryption:** Implementing end-to-end encrypted (E2EE) workflows to ensure message confidentiality.
+* **🔑 Auth:** Designing robust **JWT-based** authentication and authorization for secure session management.
+* **🌐 Real-time:** Integrating **WebSocket** infrastructure for low-latency communication.
+* **🗄️ Database:** Optimizing schemas to support high concurrency and efficient message storage.
+* **🛠️ Engineering:** Refining system architecture for maintainability, extensibility, and production readiness.
 
-• ⚙️ Implementing end-to-end encrypted communication workflows to ensure message confidentiality and strong data protection standards.  
+---
 
-• 🔑 Designing robust JWT-based authentication and authorization mechanisms for secure and efficient user session management.  
+## 📂 Key Projects
 
-• 🌐 Integrating WebSocket-driven real-time messaging infrastructure for low-latency communication between connected clients.  
-
-• 🗄️ Structuring optimized database schemas to support concurrent users and efficient message storage strategies.  
-
-• 🚀 Engineering scalable backend services capable of handling increasing traffic with reliability and consistent performance.  
-
-• 🛠️ Continuously refining system architecture to improve maintainability, extensibility, and production readiness standards.  
-
-• 📈 Strengthening practical knowledge in distributed systems, real-time application patterns, and backend optimization techniques.  
+* **🧠 Universal Memory Layer:** Creating a persistent memory layer for AI chat systems to enhance long-term context retention.
+* **🩺 Ayusanjeevini:** Developed a mobile health application using ML for skin and dental disease detection.
 
 ---
 
 ## 🧰 Tech Used In Current Project
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
 </p>
 
 ---
 
-## 🤝 Open To Collaborate On
+## 📊 GitHub Analytics
 
-• Security-focused backend systems requiring structured authentication and authorization implementations.  
-
-• Real-time applications that demand efficient message handling and scalable communication pipelines.  
-
-• Performance-oriented backend architectures emphasizing maintainability and modular engineering practices.  
-
-• Engineering projects centered around privacy, encryption principles, and backend reliability improvements.  
-
----
-
-## 📚 Currently Learning
-
-• Advanced system design principles for building scalable and distributed production-grade applications.  
-
-• Cryptography fundamentals to strengthen understanding of encryption algorithms and secure communication models.  
-
-• WebSocket scaling techniques and caching strategies using Redis for improved system responsiveness.  
-
-• Backend architectural patterns that enhance maintainability, extensibility, and operational stability.  
-
----
-
-## 💬 Ask Me About
-
-• Designing RESTful APIs using Django and FastAPI frameworks effectively and efficiently.  
-
-• Implementing JWT-based authentication workflows and secure user session management strategies.  
-
-• Building real-time backend systems using WebSockets and scalable messaging architectures.  
-
-• Improving backend application performance through structured engineering and optimization techniques.  
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pran-avk&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pran-avk&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
 ---
 
 ## ⚡ Fun Fact
-
-• I enjoy stress-testing my own applications to discover vulnerabilities and strengthen overall system reliability.
-
-## 💻 Tech Stack
-
-### 🧠 Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend & APIs
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-### 🗄️ Databases & BaaS
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### ☁️ Deployment
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-
-### 🤖 ML / Data
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+* I enjoy stress-testing my own applications to discover vulnerabilities and strengthen overall system reliability.
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Connect With Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pran-avk&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=pran-avk&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <a href="mailto:kp755508@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/pranav-k-563b15277/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
